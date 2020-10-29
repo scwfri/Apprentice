@@ -34,7 +34,7 @@ let s:cterm0C = "110"
 let s:cterm0D = "103"
 let s:cterm0E = "73"
 let s:cterm0F = "231"
-let s:ctermBG = "235"
+let s:ctermBG = "234"
 let s:ctermFG = "250"
 
 let s:guiWhite = "#ffffff"
